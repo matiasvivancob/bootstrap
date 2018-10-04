@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+body {
+  min-height: 75rem;
+  padding-top: 3.5rem;
+  background: white;
+  font-family: 'Work Sans', sans-serif;
+
+}
+#saludos {background-color: #D0A9F5;
+         }
